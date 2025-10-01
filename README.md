@@ -61,9 +61,9 @@
 
   <section id="contact">
     <h2>Contact</h2>
-    <p>Email: yourmail@example.com</p>
-    <p>LinkedIn: <a href="#">linkedin.com/in/yourprofile</a></p>
-    <p>GitHub: <a href="#">github.com/yourprofile</a></p>
+    <p>Email: sreedevpradeep06@gmail.com</p>
+    <p>LinkedIn: <a href="#">linkedin.com</a></p>
+    <p>GitHub: <a href="#">github.com/</a></p>
   </section>
 
   <footer>
